@@ -1,6 +1,6 @@
-[![Build Status](https://travis-ci.org/chatii2412/tournament.svg?branch=master)](https://travis-ci.org/chatii2412/tournament)
-[![Known Vulnerabilities](https://snyk.io/test/github/chatii2412/tournament/badge.svg)](https://snyk.io/test/github/chatii2412/tournament)
-[![StackShare](https://img.shields.io/badge/tech-stack-0690fa.svg?style=flat)](https://stackshare.io/chatii2412/tournament)
+[![Build Status](https://travis-ci.org/chatoo2412/tournament.svg?branch=master)](https://travis-ci.org/chatoo2412/tournament)
+[![Known Vulnerabilities](https://snyk.io/test/github/chatoo2412/tournament/badge.svg)](https://snyk.io/test/github/chatoo2412/tournament)
+[![StackShare](https://img.shields.io/badge/tech-stack-0690fa.svg?style=flat)](https://stackshare.io/chatoo2412/tournament)
 
 # tournament
 
@@ -45,8 +45,8 @@ $ npm run build
 $ npx http-server -p 3000 ./dist
 ```
 
-[GitHub Pages]: https://chatii2412.github.io/tournament/
-[wiki]: https://github.com/chatii2412/tournament/wiki
+[GitHub Pages]: https://chatoo2412.github.io/tournament/
+[wiki]: https://github.com/chatoo2412/tournament/wiki
 [Node.js 8+]: https://nodejs.org/
 [Google Chrome 62+]: https://google.com/chrome/
 [Firefox 57+]: https://www.mozilla.org/firefox/
